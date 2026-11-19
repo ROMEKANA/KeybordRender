@@ -1,0 +1,889 @@
+groups:
+  main:
+    - id: Esc
+      label: Esc
+      row: 0
+      col: 0
+      x: 0.0
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F1
+      label: F1
+      row: 0
+      col: 1
+      x: 2.0
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F2
+      label: F2
+      row: 0
+      col: 2
+      x: 3.0
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F3
+      label: F3
+      row: 0
+      col: 3
+      x: 4.0
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F4
+      label: F4
+      row: 0
+      col: 4
+      x: 5.0
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F5
+      label: F5
+      row: 0
+      col: 5
+      x: 6.5
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F6
+      label: F6
+      row: 0
+      col: 6
+      x: 7.5
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F7
+      label: F7
+      row: 0
+      col: 7
+      x: 8.5
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F8
+      label: F8
+      row: 0
+      col: 8
+      x: 9.5
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F9
+      label: F9
+      row: 0
+      col: 9
+      x: 11.0
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F10
+      label: F10
+      row: 0
+      col: 10
+      x: 12.0
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F11
+      label: F11
+      row: 0
+      col: 11
+      x: 13.0
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: F12
+      label: F12
+      row: 0
+      col: 12
+      x: 14.0
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: ZenkakuHankaku
+      label: 半/全
+      row: 1
+      col: 0
+      x: 0.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Digit1
+      label: '1'
+      row: 1
+      col: 1
+      x: 1.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Digit2
+      label: '2'
+      row: 1
+      col: 2
+      x: 2.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Digit3
+      label: '3'
+      row: 1
+      col: 3
+      x: 3.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Digit4
+      label: '4'
+      row: 1
+      col: 4
+      x: 4.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Digit5
+      label: '5'
+      row: 1
+      col: 5
+      x: 5.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Digit6
+      label: '6'
+      row: 1
+      col: 6
+      x: 6.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Digit7
+      label: '7'
+      row: 1
+      col: 7
+      x: 7.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Digit8
+      label: '8'
+      row: 1
+      col: 8
+      x: 8.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Digit9
+      label: '9'
+      row: 1
+      col: 9
+      x: 9.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Digit0
+      label: '0'
+      row: 1
+      col: 10
+      x: 10.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Minus
+      label: '-'
+      row: 1
+      col: 11
+      x: 11.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Caret
+      label: ^
+      row: 1
+      col: 12
+      x: 12.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Yen
+      label: ¥
+      row: 1
+      col: 13
+      x: 13.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Backspace
+      label: ＜
+      row: 1
+      col: 14
+      x: 14.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Tab
+      label: Tab
+      row: 2
+      col: 0
+      x: 0.0
+      y: 2.5
+      w: 1.5
+      h: 1.0
+    - id: Q
+      label: Q
+      row: 2
+      col: 1
+      x: 1.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: W
+      label: W
+      row: 2
+      col: 2
+      x: 2.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: E
+      label: E
+      row: 2
+      col: 3
+      x: 3.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: R
+      label: R
+      row: 2
+      col: 4
+      x: 4.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: T
+      label: T
+      row: 2
+      col: 5
+      x: 5.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: Y
+      label: Y
+      row: 2
+      col: 6
+      x: 6.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: U
+      label: U
+      row: 2
+      col: 7
+      x: 7.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: I
+      label: I
+      row: 2
+      col: 8
+      x: 8.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: O
+      label: O
+      row: 2
+      col: 9
+      x: 9.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: P
+      label: P
+      row: 2
+      col: 10
+      x: 10.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: At
+      label: '@'
+      row: 2
+      col: 11
+      x: 11.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: BracketLeft
+      label: '['
+      row: 2
+      col: 12
+      x: 12.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: Enter
+      label: Enter
+      row: 2
+      col: 13
+      x: 13.5
+      y: 2.5
+      w: 1.5
+      h: 2.0
+      outline:
+        - - 0
+          - 0
+        - - 1.5
+          - 0
+        - - 1.5
+          - 2
+        - - 0.25
+          - 2
+        - - 0.25
+          - 1
+        - - 0
+          - 1
+    - id: F13
+      label: F13
+      row: 3
+      col: 0
+      x: 0.0
+      y: 3.5
+      w: 1.75
+      h: 1.0
+    - id: A
+      label: A
+      row: 3
+      col: 1
+      x: 1.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: S
+      label: S
+      row: 3
+      col: 2
+      x: 2.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: D
+      label: D
+      row: 3
+      col: 3
+      x: 3.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: F
+      label: F
+      row: 3
+      col: 4
+      x: 4.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: G
+      label: G
+      row: 3
+      col: 5
+      x: 5.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: H
+      label: H
+      row: 3
+      col: 6
+      x: 6.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: J
+      label: J
+      row: 3
+      col: 7
+      x: 7.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: K
+      label: K
+      row: 3
+      col: 8
+      x: 8.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: L
+      label: L
+      row: 3
+      col: 9
+      x: 9.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: Semicolon
+      label: ;
+      row: 3
+      col: 10
+      x: 10.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: Colon
+      label: ':'
+      row: 3
+      col: 11
+      x: 11.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: BracketRight
+      label: ']'
+      row: 3
+      col: 12
+      x: 12.75
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: ShiftLeft
+      label: Shift
+      row: 4
+      col: 0
+      x: 0.0
+      y: 4.5
+      w: 2.25
+      h: 1.0
+    - id: Z
+      label: Z
+      row: 4
+      col: 1
+      x: 2.25
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: X
+      label: X
+      row: 4
+      col: 2
+      x: 3.25
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: C
+      label: C
+      row: 4
+      col: 3
+      x: 4.25
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: V
+      label: V
+      row: 4
+      col: 4
+      x: 5.25
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: B
+      label: B
+      row: 4
+      col: 5
+      x: 6.25
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: N
+      label: N
+      row: 4
+      col: 6
+      x: 7.25
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: M
+      label: M
+      row: 4
+      col: 7
+      x: 8.25
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: Comma
+      label: ','
+      row: 4
+      col: 8
+      x: 9.25
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: Period
+      label: .
+      row: 4
+      col: 9
+      x: 10.25
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: Slash
+      label: /
+      row: 4
+      col: 10
+      x: 11.25
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: Ro
+      label: ＼
+      row: 4
+      col: 11
+      x: 12.25
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: ShiftRight
+      label: Shift
+      row: 4
+      col: 12
+      x: 13.25
+      y: 4.5
+      w: 1.75
+      h: 1.0
+    - id: CtrlLeft
+      label: Ctrl
+      row: 5
+      col: 0
+      x: 0.0
+      y: 5.5
+      w: 1.25
+      h: 1.0
+    - id: WinLeft
+      label: Win
+      row: 5
+      col: 1
+      x: 1.25
+      y: 5.5
+      w: 1.25
+      h: 1.0
+    - id: AltLeft
+      label: Alt
+      row: 5
+      col: 2
+      x: 2.5
+      y: 5.5
+      w: 1.25
+      h: 1.0
+    - id: Muhenkan
+      label: 無変換
+      row: 5
+      col: 3
+      x: 3.75
+      y: 5.5
+      w: 1.0
+      h: 1.0
+    - id: Space
+      label: Space
+      row: 5
+      col: 4
+      x: 4.75
+      y: 5.5
+      w: 3.25
+      h: 1.0
+    - id: Henkan
+      label: 変換
+      row: 5
+      col: 5
+      x: 8.0
+      y: 5.5
+      w: 1.0
+      h: 1.0
+    - id: Menu
+      label: Menu
+      row: 5
+      col: 6
+      x: 9.0
+      y: 5.5
+      w: 1.0
+      h: 1.0
+    - id: AltRight
+      label: Alt
+      row: 5
+      col: 7
+      x: 10.0
+      y: 5.5
+      w: 1.25
+      h: 1.0
+    - id: Fn
+      label: Fn
+      row: 5
+      col: 8
+      x: 11.25
+      y: 5.5
+      w: 1.25
+      h: 1.0
+    - id: WinRight
+      label: Win
+      row: 5
+      col: 9
+      x: 12.5
+      y: 5.5
+      w: 1.25
+      h: 1.0
+    - id: CtrlRight
+      label: Ctrl
+      row: 5
+      col: 10
+      x: 13.75
+      y: 5.5
+      w: 1.25
+      h: 1.0
+  navigation:
+    - id: PrintScreen
+      label: PrtSc
+      row: 0
+      col: 0
+      x: 15.5
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: ScrollLock
+      label: ScrLk
+      row: 0
+      col: 1
+      x: 16.5
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: Pause
+      label: Pause
+      row: 0
+      col: 2
+      x: 17.5
+      y: 0.0
+      w: 1.0
+      h: 1.0
+    - id: Insert
+      label: Ins
+      row: 1
+      col: 0
+      x: 15.5
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Home
+      label: Home
+      row: 1
+      col: 1
+      x: 16.5
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: PageUp
+      label: PgUp
+      row: 1
+      col: 2
+      x: 17.5
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Delete
+      label: Del
+      row: 2
+      col: 0
+      x: 15.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: End
+      label: End
+      row: 2
+      col: 1
+      x: 16.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: PageDown
+      label: PgDn
+      row: 2
+      col: 2
+      x: 17.5
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: ArrowUp
+      label: ↑
+      row: 4
+      col: 0
+      x: 16.5
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: ArrowLeft
+      label: ←
+      row: 5
+      col: 0
+      x: 15.5
+      y: 5.5
+      w: 1.0
+      h: 1.0
+    - id: ArrowDown
+      label: ↓
+      row: 5
+      col: 1
+      x: 16.5
+      y: 5.5
+      w: 1.0
+      h: 1.0
+    - id: ArrowRight
+      label: →
+      row: 5
+      col: 2
+      x: 17.5
+      y: 5.5
+      w: 1.0
+      h: 1.0
+  numpad:
+    - id: NumpadNumLock
+      label: Num
+      row: 1
+      col: 0
+      x: 19.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: NumpadDivide
+      label: /
+      row: 1
+      col: 1
+      x: 20.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: NumpadMultiply
+      label: '*'
+      row: 1
+      col: 2
+      x: 21.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: NumpadSubtract
+      label: '-'
+      row: 1
+      col: 3
+      x: 22.0
+      y: 1.5
+      w: 1.0
+      h: 1.0
+    - id: Numpad7
+      label: '7'
+      row: 2
+      col: 0
+      x: 19.0
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: Numpad8
+      label: '8'
+      row: 2
+      col: 1
+      x: 20.0
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: Numpad9
+      label: '9'
+      row: 2
+      col: 2
+      x: 21.0
+      y: 2.5
+      w: 1.0
+      h: 1.0
+    - id: NumpadAdd
+      label: +
+      row: 2
+      col: 3
+      x: 22.0
+      y: 2.5
+      w: 1.0
+      h: 2.0
+    - id: Numpad4
+      label: '4'
+      row: 3
+      col: 0
+      x: 19.0
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: Numpad5
+      label: '5'
+      row: 3
+      col: 1
+      x: 20.0
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: Numpad6
+      label: '6'
+      row: 3
+      col: 2
+      x: 21.0
+      y: 3.5
+      w: 1.0
+      h: 1.0
+    - id: Numpad1
+      label: '1'
+      row: 4
+      col: 0
+      x: 19.0
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: Numpad2
+      label: '2'
+      row: 4
+      col: 1
+      x: 20.0
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: Numpad3
+      label: '3'
+      row: 4
+      col: 2
+      x: 21.0
+      y: 4.5
+      w: 1.0
+      h: 1.0
+    - id: NumpadEnter
+      label: Enter
+      row: 4
+      col: 3
+      x: 22.0
+      y: 4.5
+      w: 1.0
+      h: 2.0
+    - id: Numpad0
+      label: '0'
+      row: 5
+      col: 0
+      x: 19.0
+      y: 5.5
+      w: 2.0
+      h: 1.0
+    - id: NumpadDecimal
+      label: .
+      row: 5
+      col: 1
+      x: 21.0
+      y: 5.5
+      w: 1.0
+      h: 1.0
